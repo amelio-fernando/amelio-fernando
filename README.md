@@ -1,16 +1,12 @@
-### Hi there 👋
+- ☎️ Alô, alô, planeta Terra chamando, planeta Terra chamando. Essa é mais uma edição....... Na verdade é o meu README!
+- Me chamo Fernando Amelio 😊
+- 🌱 Atualmente estou aprendendo Logica de Programação e Linguagem C.
+-  Essa historia toda de programação começou por curiosidade, e agora ja virou hobby. Aonde isso vai dar? Não sei... Mas sigo firme.
 
-<!--
-**amelio-fernando/amelio-fernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 Meu e-mail: fernando.amelio@gmail.com.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/amelio-fernando">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amelio-fernando&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amelio-fernando&layout=compact&langs_count=7&theme=dark"/>
+</div>
