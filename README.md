@@ -3,7 +3,8 @@
 - 🌱 Atualmente estou aprendendo Logica de Programação e Linguagem C.
 -  Essa historia toda de programação começou por curiosidade, e agora ja virou hobby. Aonde isso vai dar? Não sei... Mas sigo firme.
 -  Seu README pode ser personalizado com os cards abaixo! É so apoiar o carinha que fez esse projeto, da uma ida la e apoie o cara!!
--  https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+-  Autor do projeto: Anurag Hazra.
+-  https://github.com/anuraghazra/github-readme-stats#readme
 - Cara, melhor parar por aqui, to mexendo nessa badarósca e vai dar merda!
 </br>
 - Se quiser, manda um email!!! ==> fernando.amelio@gmail.com 
