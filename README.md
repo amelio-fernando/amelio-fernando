@@ -2,6 +2,8 @@
 - 🌱 Atualmente estou cursando Ciências da Computação.
 -  Essa historia toda de programação começou por curiosidade e agora ja virou hobby. Aonde isso vai dar? Não sei... Mas sigo firme.
 
+- CERTIFICADOS ALURA.
+https://cursos.alura.com.br/user/fernando-amelio/fullCertificate/ecb9b23aca72c1efea2f13943157b131
 
 </br>
 - Se quiser, manda um email!!! ==> fernando.amelio@gmail.com 
